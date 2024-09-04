@@ -333,9 +333,9 @@
   --bulma-link: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-l), 1);
   --bulma-link-base: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-l), 1);
   --bulma-link-rgb: 66, 88, 255;
-  --bulma-link-h: 233deg;
-  --bulma-link-s: 100%;
-  --bulma-link-l: 63%;
+  --bulma-link-h: 164deg;
+  --bulma-link-s: 73%;
+  --bulma-link-l: 57%;
   --bulma-link-00-l: 0%;
   --bulma-link-05-l: 3%;
   --bulma-link-10-l: 8%;
