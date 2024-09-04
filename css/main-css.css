@@ -1,15 +1,19 @@
 :root {
-    /* RGB COLOR PALETTE */
-    --dark-blue-rgb: 7, 0, 77;
-    --light-blue-rgb: 45, 130, 183;
-    --green-rgb: 66, 226, 184;
-    --yellow-rgb: 252, 246, 238;
-    --coral-rgb: 235, 138, 144;
-
-    /* HEX COLOR PALETTE */
-    --dark-blue-hex: #07004D;
-    --light-blue-hex: #2D82B7;
-    --green-hex: #42E2B8;
-    --yellow-hex: #FCF6EE;
-    --coral-hex: #EB8A90;
-}
+    --bulma-primary-h: 203deg;
+    --bulma-primary-s: 61%;
+    --bulma-primary-l: 45%;
+    --bulma-success-h: 164deg;
+    --bulma-success-s: 56%;
+    --bulma-success-l: 48%;
+    --bulma-warning-h: 34deg;
+    --bulma-warning-s: 71%;
+    --bulma-warning-l: 70%;
+    --bulma-danger-h: 356deg;
+    --bulma-danger-s: 71%;
+    --bulma-danger-l: 73%;
+    --bulma-scheme-h: 256;
+    --bulma-light-invert-l: 13%;
+    --bulma-dark-l: 17%;
+  }
+  
+  
