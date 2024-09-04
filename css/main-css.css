@@ -1,0 +1,15 @@
+:root {
+    /* RGB COLOR PALETTE */
+    --dark-blue-rgb: 7, 0, 77;
+    --light-blue-rgb: 45, 130, 183;
+    --green-rgb: 66, 226, 184;
+    --yellow-rgb: 252, 246, 238;
+    --coral-rgb: 235, 138, 144;
+
+    /* HEX COLOR PALETTE */
+    --dark-blue-hex: #07004D;
+    --light-blue-hex: #2D82B7;
+    --green-hex: #42E2B8;
+    --yellow-hex: #FCF6EE;
+    --coral-hex: #EB8A90;
+}
